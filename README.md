@@ -3,7 +3,7 @@
 Prepared By:
 
 Omoniyi Mayowa Maria
-Business Intelligence & Data Analyst
+(Business Intelligence & Data Analyst)
 
 
 👋 Introduction
