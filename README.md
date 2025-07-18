@@ -67,7 +67,7 @@ Q3. What were the total sales of appliances in Ontario?
 Province	Category	Total Sales
 Ontario	Appliances	₦2,006,946.18
 
-![image alt](htthttps://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/1c7116abae449e90462c680dfb80330708bbafa0/Q3.png)
+![image alt](https://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/b80f05fb9119617ec4bfdb2971a8966d99321baf/Q3.png)
 ________________________________________
 Q4. How to Increase Revenue from Bottom 10 Customers?
 
