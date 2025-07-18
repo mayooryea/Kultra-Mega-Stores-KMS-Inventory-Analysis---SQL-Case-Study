@@ -59,13 +59,19 @@ Region	Total Sales
 Yukon	₦666,499.33
 Northwest Territories	₦528,712.06
 Nunavut	₦94,258.37
+
+![image alt](https://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/1c7116abae449e90462c680dfb80330708bbafa0/Q2.png)
 ________________________________________
 Q3. What were the total sales of appliances in Ontario?
 
 Province	Category	Total Sales
 Ontario	Appliances	₦2,006,946.18
+
+![image alt](htthttps://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/1c7116abae449e90462c680dfb80330708bbafa0/Q3.png)
 ________________________________________
 Q4. How to Increase Revenue from Bottom 10 Customers?
+
+![image alt](https://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/1c7116abae449e90462c680dfb80330708bbafa0/Q4.png)
 
 ⚠️ Identified Issues:
 Issue	Impact
@@ -86,6 +92,8 @@ Q5. Which shipping method incurred the highest cost?
 
 Ship Mode	Shipping Cost
 Delivery Truck	₦164.73 (highest per unit average)
+
+![image alt](https://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/1c7116abae449e90462c680dfb80330708bbafa0/Q5.png)
 ________________________________________
 Q6. Who are the most valuable customers and their purchased products?
 
@@ -95,30 +103,45 @@ Deborah Brumfield	Hewlett Packard LaserJet 3310 Copier	₦28,664.52	₦13,340.26
 Karen Carlisle	Canon Image Class D660 Copier	₦29,884.60	₦12,748.86
 Raymond Book	Hewlett Packard LaserJet 3310 Copier	₦27,720.98	₦11,984.40
 Nick Crebassa	HP Business Color Inkjet 3000 Series Printer	₦29,186.49	₦11,562.08
+
+![image alt](https://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/1c7116abae449e90462c680dfb80330708bbafa0/Q6.png)
 ________________________________________
 Q7. Which Small Business Customer had the Highest Sales?
 
 Customer Name	Total Sales
 Deborah Brumfield	₦61,508.45
+
+![image alt](https://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/1c7116abae449e90462c680dfb80330708bbafa0/Q7.png)
 ________________________________________
 Q8. Which Corporate Customer Placed the Most Orders (2009–2012)?
 
 Customer Name	Order Count
 Adam Hart	18
+
+![image alt](https://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/1c7116abae449e90462c680dfb80330708bbafa0/Q8.png)
 ________________________________________
 Q9. Who was the Most Profitable Consumer?
+
 Customer Name	Total Profit
 Emily Phan	₦32,467.94
+
+![image alt](https://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/1c7116abae449e90462c680dfb80330708bbafa0/Q9.png)
 ________________________________________
 Q10. Which Customers Returned Items and What Segments Do They Belong To?
+
 Customer Name	Segment
 Dorothy Badders	Home Office
 Grant Carroll	Corporate
 Edward Hooks	Consumer
 Michelle Lonsdale	Home Office
 Carlos Soltero	Small Business
+
+![image alt](https://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/1c7116abae449e90462c680dfb80330708bbafa0/Q10.png)
+
 ________________________________________
 Q11. Was Shipping Cost Appropriately Aligned with Order Priority?
+
+![image alt](https://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/1c7116abae449e90462c680dfb80330708bbafa0/Q11.png)
 
 🚩 Analysis:
 Despite Delivery Truck being the most economical, many Low and Medium priority orders were shipped via Express Air—the most expensive mode.
@@ -143,6 +166,8 @@ ________________________________________
 5.	Expand in top-performing regions (e.g., West, Ontario) while managing cost in low-performing areas.
 ________________________________________
 📈 Visualizations 
+
+![image alt](https://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/1c7116abae449e90462c680dfb80330708bbafa0/KMS_Inventory_Charts.png)
 1.	Bar Chart: Product Category vs Sales
 2.	Bar Chart: Region vs Total Sales
 3.	Pie Chart: Shipping Methods by Total Cost
@@ -154,6 +179,10 @@ ________________________________________
 •	Microsoft Excel
 •	Data Cleaning, Aggregation
 •	Data Visualization (Excel Charts)
+
+![image alt](https://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/1c7116abae449e90462c680dfb80330708bbafa0/kms_Sql_casestudy.csv)
+
+
 ________________________________________
 ✅ For more case studies and SQL-based analysis, follow this repository or connect with me on LinkedIn.
 
