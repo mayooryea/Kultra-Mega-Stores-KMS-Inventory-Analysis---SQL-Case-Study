@@ -1,6 +1,8 @@
 # Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study
+
 Prepared By:
 Omoniyi Mayowa Maria
+
 Business Intelligence & Data Analyst
 
 👋 Introduction
