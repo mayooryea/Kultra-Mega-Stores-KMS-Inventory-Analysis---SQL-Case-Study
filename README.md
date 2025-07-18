@@ -46,6 +46,7 @@ Technology	₦89,061.05
 
 ________________________________________
 Q2. What are the Top 3 and Bottom 3 Regions by Sales?
+
 🔼 Top 3 Regions
 Region	Total Sales
 West	₦2,308,128.20
@@ -58,6 +59,7 @@ Northwest Territories	₦528,712.06
 Nunavut	₦94,258.37
 ________________________________________
 Q3. What were the total sales of appliances in Ontario?
+
 Province	Category	Total Sales
 Ontario	Appliances	₦2,006,946.18
 ________________________________________
@@ -71,6 +73,7 @@ Express shipping used for low-priority orders	Unnecessary costs
 High discounting with negative profit	Unsustainable
 
 Recommended Actions:
+
 •	Tighten pricing policies to reduce deep discounts
 •	Optimize logistics: use economical shipping methods for low-priority orders
 •	Re-train sales teams to better align products with profitable segments
@@ -78,10 +81,12 @@ Recommended Actions:
 •	Use data-driven decisions for shipping mode and discounting
 ________________________________________
 Q5. Which shipping method incurred the highest cost?
+
 Ship Mode	Shipping Cost
 Delivery Truck	₦164.73 (highest per unit average)
 ________________________________________
 Q6. Who are the most valuable customers and their purchased products?
+
 Customer Name	Product Name	Sales	Profit
 Emily Phan	Polycom ViewStation™ ISDN Videoconferencing Unit	₦89,061.05	₦27,220.69
 Deborah Brumfield	Hewlett Packard LaserJet 3310 Copier	₦28,664.52	₦13,340.26
@@ -90,10 +95,12 @@ Raymond Book	Hewlett Packard LaserJet 3310 Copier	₦27,720.98	₦11,984.40
 Nick Crebassa	HP Business Color Inkjet 3000 Series Printer	₦29,186.49	₦11,562.08
 ________________________________________
 Q7. Which Small Business Customer had the Highest Sales?
+
 Customer Name	Total Sales
 Deborah Brumfield	₦61,508.45
 ________________________________________
 Q8. Which Corporate Customer Placed the Most Orders (2009–2012)?
+
 Customer Name	Order Count
 Adam Hart	18
 ________________________________________
@@ -110,19 +117,23 @@ Michelle Lonsdale	Home Office
 Carlos Soltero	Small Business
 ________________________________________
 Q11. Was Shipping Cost Appropriately Aligned with Order Priority?
+
 🚩 Analysis:
 Despite Delivery Truck being the most economical, many Low and Medium priority orders were shipped via Express Air—the most expensive mode.
 Order Priority	Ship Mode	Order Count	Est. Shipping Cost	Avg Duration
 Critical	Express Air	140	₦133,534.96	1 day
 Low	Express Air	139	₦134,323.44	4 days
 Medium	Express Air	129	₦159,498.47	1 day
+
 📌 Conclusion:
+
 ❌ No, shipping was not appropriately aligned.
 Low-priority orders used fast, costly shipping unnecessarily.
 High-priority orders sometimes used slower methods.
 Order delivery time remained mostly 1 day across modes, negating Express Air's benefits.
 ________________________________________
 📌 Final Recommendations
+
 1.	Align shipping mode with order priority to reduce unnecessary costs.
 2.	Identify and renegotiate with customers who consistently yield negative profits.
 3.	Build a profitability dashboard to monitor real-time order margins.
@@ -136,12 +147,18 @@ ________________________________________
 4.	Bar Chart: Top Customers by Profit
 ________________________________________
 💼 Tools Used
+
 •	SQL (MySQL / SQL Server)
 •	Microsoft Excel
 •	Data Cleaning, Aggregation
 •	Data Visualization (Excel Charts)
 ________________________________________
 ✅ For more case studies and SQL-based analysis, follow this repository or connect with me on LinkedIn.
-📧 Email: mayooryea@gmail.com
-Click on my LinkedIn link:    https://www.linkedin.com/posts/mayowa-omoniyi-460137b6_dataanalytics-certifieddataanalyst-ukrlp-activity-7328796370851594240-02D3?utm_source=share&utm_medium=member_desktop&rcm=ACoAABiUkMgB0-Q468y43-wCcS1zWobEtfdTGL8
+
+📧 Email: 
+
+mayooryea@gmail.com
+Click on my LinkedIn link:    
+
+https://www.linkedin.com/posts/mayowa-omoniyi-460137b6_dataanalytics-certifieddataanalyst-ukrlp-activity-7328796370851594240-02D3?utm_source=share&utm_medium=member_desktop&rcm=ACoAABiUkMgB0-Q468y43-wCcS1zWobEtfdTGL8
 
