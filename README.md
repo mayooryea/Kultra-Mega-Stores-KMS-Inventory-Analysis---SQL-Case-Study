@@ -38,6 +38,7 @@ o	Assess order priority effectiveness
 
 ________________________________________
 🔍 **Case Questions & SQL-Based Insights**
+
 Q1. Which product category had the highest sales?
 Product Category	Total Sales
 Technology	₦89,061.05
