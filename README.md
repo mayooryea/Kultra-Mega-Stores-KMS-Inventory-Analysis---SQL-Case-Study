@@ -43,7 +43,6 @@ Q1. Which product category had the highest sales?
 Product Category	Total Sales
 Technology	₦89,061.05
 
-![image alt](https://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/954e4ec28289b693dab9da659ae5b3c80b031e4b/Q1.png)
 
 ________________________________________
 Q2. What are the Top 3 and Bottom 3 Regions by Sales?
