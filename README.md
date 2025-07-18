@@ -168,6 +168,11 @@ ________________________________________
 📈 Visualizations 
 
 ![image alt](https://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/1c7116abae449e90462c680dfb80330708bbafa0/KMS_Inventory_Charts.png)
+
+![image alt](https://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/7afbd025a4a18f26ee4db4dc1b7e6a7c74d6d8be/visual_shipping_cost.png)
+
+![image alt](https://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/7afbd025a4a18f26ee4db4dc1b7e6a7c74d6d8be/top%203%20most%20profitable%20product.png)
+
 1.	Bar Chart: Product Category vs Sales
 2.	Bar Chart: Region vs Total Sales
 3.	Pie Chart: Shipping Methods by Total Cost
