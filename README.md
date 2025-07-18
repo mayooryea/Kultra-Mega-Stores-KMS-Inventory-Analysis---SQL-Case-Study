@@ -9,9 +9,6 @@ This repository presents my comprehensive analysis of Kultra Mega Stores' invent
 
 🏢 Business Context: Kultra Mega Stores (KMS), a top office supplies retailer in Nigeria, tasked me with analyzing historical order data from its Abuja division to identify insights for improving operations and boosting profitability.
 
-![image alt](https://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/954e4ec28289b693dab9da659ae5b3c80b031e4b/Q1.png)
-
-
 🎯 Project Objectives
 1.	Identify highest-performing products and categories
 2.	Analyze regional sales performance
@@ -40,10 +37,13 @@ o	Evaluate customer segments
 o	Assess order priority effectiveness
 
 ________________________________________
-🔍 Case Questions & SQL-Based Insights
+🔍 **Case Questions & SQL-Based Insights**
 Q1. Which product category had the highest sales?
 Product Category	Total Sales
 Technology	₦89,061.05
+
+![image alt](https://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/954e4ec28289b693dab9da659ae5b3c80b031e4b/Q1.png)
+
 ________________________________________
 Q2. What are the Top 3 and Bottom 3 Regions by Sales?
 🔼 Top 3 Regions
