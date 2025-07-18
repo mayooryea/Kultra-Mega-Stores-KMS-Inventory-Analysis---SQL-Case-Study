@@ -129,7 +129,7 @@ ________________________________________
 4.	Audit logistics partners and incentivize cost-effective deliveries.
 5.	Expand in top-performing regions (e.g., West, Ontario) while managing cost in low-performing areas.
 ________________________________________
-📈 Visualizations (Suggested)
+📈 Visualizations 
 1.	Bar Chart: Product Category vs Sales
 2.	Bar Chart: Region vs Total Sales
 3.	Pie Chart: Shipping Methods by Total Cost
@@ -139,7 +139,7 @@ ________________________________________
 •	SQL (MySQL / SQL Server)
 •	Microsoft Excel
 •	Data Cleaning, Aggregation
-•	Data Visualization (Excel Charts )
+•	Data Visualization (Excel Charts)
 ________________________________________
 ✅ For more case studies and SQL-based analysis, follow this repository or connect with me on LinkedIn.
 📧 Email: mayooryea@gmail.com
