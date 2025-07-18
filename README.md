@@ -180,9 +180,10 @@ ________________________________________
 ________________________________________
 💼 Tools Used
 
-•	SQL (MySQL / SQL Server)
+•	SSMS SQL Server
+• SQL (MySQL / SQL Server)
 •	Microsoft Excel
-•	Data Cleaning, Aggregation
+•	Data Cleaning, Aggregation, Pivot Chart
 •	Data Visualization (Excel Charts)
 
 ________________________________________
