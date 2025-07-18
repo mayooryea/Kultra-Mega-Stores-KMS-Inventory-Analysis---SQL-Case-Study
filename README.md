@@ -180,9 +180,6 @@ ________________________________________
 •	Data Cleaning, Aggregation
 •	Data Visualization (Excel Charts)
 
-![image alt](https://github.com/mayooryea/Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study/blob/1c7116abae449e90462c680dfb80330708bbafa0/kms_Sql_casestudy.csv)
-
-
 ________________________________________
 ✅ For more case studies and SQL-based analysis, follow this repository or connect with me on LinkedIn.
 
