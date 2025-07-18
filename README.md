@@ -40,6 +40,7 @@ ________________________________________
 🔍 **Case Questions & SQL-Based Insights**
 
 Q1. Which product category had the highest sales?
+
 Product Category	Total Sales
 Technology	₦89,061.05
 
@@ -52,6 +53,7 @@ Region	Total Sales
 West	₦2,308,128.20
 Ontario	₦2,006,946.18
 Prarie	₦1,857,181.70
+
 🔽 Bottom 3 Regions
 Region	Total Sales
 Yukon	₦666,499.33
