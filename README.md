@@ -62,6 +62,7 @@ Province	Category	Total Sales
 Ontario	Appliances	₦2,006,946.18
 ________________________________________
 Q4. How to Increase Revenue from Bottom 10 Customers?
+
 ⚠️ Identified Issues:
 Issue	Impact
 High shipping costs on low-margin items	Reduces profitability
