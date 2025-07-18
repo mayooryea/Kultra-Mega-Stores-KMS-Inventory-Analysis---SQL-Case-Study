@@ -1,8 +1,10 @@
 # Kultra-Mega-Stores-KMS-Inventory-Analysis---SQL-Case-Study
 
 Prepared By:
+
 Omoniyi Mayowa Maria
 Business Intelligence & Data Analyst
+
 
 👋 Introduction
 Hello! I'm Omoniyi Mayowa, a Data Analyst specializing in transforming raw data into actionable business insights. 
