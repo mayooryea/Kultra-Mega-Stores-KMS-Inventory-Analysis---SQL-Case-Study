@@ -188,10 +188,7 @@ ________________________________________
 ________________________________________
 ✅ For more case studies and SQL-based analysis, follow this repository or connect with me on LinkedIn.
 
-📧 Email: 
+📧 Email: mayooryea@gmail.com
 
-mayooryea@gmail.com
-Click on my LinkedIn link:    
-
-https://www.linkedin.com/posts/mayowa-omoniyi-460137b6_dataanalytics-certifieddataanalyst-ukrlp-activity-7328796370851594240-02D3?utm_source=share&utm_medium=member_desktop&rcm=ACoAABiUkMgB0-Q468y43-wCcS1zWobEtfdTGL8
+Click on my LinkedIn link:  https://www.linkedin.com/posts/mayowa-omoniyi-460137b6_dataanalytics-certifieddataanalyst-ukrlp-activity-7328796370851594240-02D3?utm_source=share&utm_medium=member_desktop&rcm=ACoAABiUkMgB0-Q468y43-wCcS1zWobEtfdTGL8
 
