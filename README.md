@@ -2,7 +2,6 @@
 
 Prepared By:
 Omoniyi Mayowa Maria
-
 Business Intelligence & Data Analyst
 
 👋 Introduction
